@@ -13,4 +13,4 @@ Softwares Used -
     1. ATMEGA 16
     2. 3 LED LIGHTS
     3. 3 300 ohm Resistors
-    4. PCB BOARD
+    4. PCB BOARD/BREADBOARD
